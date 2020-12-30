@@ -11,13 +11,7 @@ Exercise using [webpack](https://github.com/webpack/webpack/releases) __5.11.1__
 5. [Support](#support)
 6. [Core Team](#core-team)
 7. [Sponsoring](#sponsoring)
-8. [Premium Partners](#premium-partners)
-9. [Other Backers and Sponsors](#other-backers-and-sponsors)
-10. [Gold Sponsors](#gold-sponsors)
-11. [Silver Sponsors](#silver-sponsors)
-12. [Bronze Sponsors](#bronze-sponsors)
-13. [Backers](#backers)
-14. [Special Thanks](#special-thanks-to)
+
 
 <h2 align="center">Install</h2>
 
